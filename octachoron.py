@@ -1,4 +1,5 @@
 # 四次元立方体が三次元平面を通過する様子を描画するコード
+# qiita記事： https://qiita.com/taylor_gang0305/items/ec3a66b53a81b9a9f100
 
 import numpy as np
 import matplotlib.pyplot as plt
