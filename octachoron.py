@@ -1,3 +1,5 @@
+# 四次元立方体が三次元平面を通過する様子を描画するコード
+
 import numpy as np
 import matplotlib.pyplot as plt
 import mpl_toolkits.mplot3d.art3d as art3d
